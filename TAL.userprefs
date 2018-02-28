@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{CBE92D0D-C66E-4A1D-BD44-672352BEFE8B}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.TAL PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TAL\Program.cs">
+    <Files>
+      <File FileName="TAL\Program.cs" Line="32" Column="52" />
+      <File FileName="TAL\Pair.cs" Line="37" Column="51" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+</Properties>
